@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "ジョジョ その血の記憶〜END OF THE WORLD〜",
+  "base_artist": "JO☆STARS ～TOMMY,Coda,JIN～",
+  "createdAt": "2026-02-13T10:23:16.042945Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ジョジョ その血の記憶〜end of THE WORLD〜",
+      "artist": "JO☆STARS〜TOMMY,Coda,JIN〜",
+      "has_synced": true,
+      "path": "select/01_ジョジョ_その血の記憶〜end_of_THE_WORLD〜_JO☆STARS〜TOMMY,Coda,JIN〜.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ジョジョ その血の記憶〜END OF THE WORLD〜",
+      "artist": "JO☆STARS 〜TOMMY,Coda,JIN〜",
+      "has_synced": true,
+      "path": "select/02_ジョジョ_その血の記憶〜END_OF_THE_WORLD〜_JO☆STARS_〜TOMMY,Coda,JIN〜.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ジョジョ その血の記憶～END OF THE WORLD～",
+      "artist": "JO☆STARS",
+      "has_synced": true,
+      "path": "select/03_ジョジョ_その血の記憶~END_OF_THE_WORLD~_JO☆STARS.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ジョジョ その血の記憶~end of THE WORLD~",
+      "artist": "JO☆STARS ~TOMMY,Coda,JIN~",
+      "has_synced": true,
+      "path": "select/04_ジョジョ_その血の記憶~end_of_THE_WORLD~_JO☆STARS_~TOMMY,Coda,JIN~.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ジョジョ その血の記憶~end of THE WORLD~ (ORIGINAL KRAOKE)",
+      "artist": "JO☆STARS ~TOMMY,Coda,JIN~",
+      "has_synced": false,
+      "path": "select/05_ジョジョ_その血の記憶~end_of_THE_WORLD~_(ORIGINAL_KRAOKE)_JO☆STARS_~TOMMY,Coda,JIN~.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ジョジョ その血の記憶～END OF THE WORLD～",
+      "artist": "JO☆STARS ～TOMMY，Coda，JIN～",
+      "has_synced": true,
+      "path": "select/06_ジョジョ_その血の記憶~END_OF_THE_WORLD~_JO☆STARS_~TOMMY,Coda,JIN~.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ジョジョ その血の記憶～END OF THE WORLD～",
+      "artist": "JO☆STARS ～TOMMY, Coda, JIN～",
+      "has_synced": true,
+      "path": "select/07_ジョジョ_その血の記憶~END_OF_THE_WORLD~_JO☆STARS_~TOMMY,_Coda,_JIN~.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ジョジョ その血の記憶〜end of THE WORLD〜",
+      "artist": "JO☆STARS~TOMMY,Coda,JIN~",
+      "has_synced": true,
+      "path": "select/08_ジョジョ_その血の記憶〜end_of_THE_WORLD〜_JO☆STARS~TOMMY,Coda,JIN~.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ジョジョ その血の記憶～END OF THE WORLD～ (ORIGINAL KARAOKE)",
+      "artist": "JO☆STARS",
+      "has_synced": false,
+      "path": "select/09_ジョジョ_その血の記憶~END_OF_THE_WORLD~_(ORIGINAL_KARAOKE)_JO☆STARS.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ジョジョ その血の記憶～END OF THE WORLD～",
+      "artist": "JO☆STARS ～TOMMY，Coda，JIN～",
+      "has_synced": true,
+      "path": "select/10_ジョジョ_その血の記憶~END_OF_THE_WORLD~_JO☆STARS_~TOMMY,Coda,JIN~.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ジョジョ その血の記憶〜end of THE WORLD〜",
+      "artist": "JO☆STARS",
+      "has_synced": true,
+      "path": "select/11_ジョジョ_その血の記憶〜end_of_THE_WORLD〜_JO☆STARS.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ジョジョ その血の記憶〜END OF THE WORLD〜",
+      "artist": "JO☆STARS 〜TOMMY,Coda,JIN〜",
+      "has_synced": true,
+      "path": "select/12_ジョジョ_その血の記憶〜END_OF_THE_WORLD〜_JO☆STARS_〜TOMMY,Coda,JIN〜.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ジョジョ その血の記憶〜end of THE WORLD〜",
+      "artist": "JO☆STARS 〜TOMMY,Coda,JIN〜",
+      "has_synced": true,
+      "path": "select/13_ジョジョ_その血の記憶〜end_of_THE_WORLD〜_JO☆STARS_〜TOMMY,Coda,JIN〜.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ジョジョ その血の記憶～END OF THE WORLD～",
+      "artist": "JO☆STARS",
+      "has_synced": true,
+      "path": "select/14_ジョジョ_その血の記憶~END_OF_THE_WORLD~_JO☆STARS.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ジョジョ その血の記憶〜END OF THE WORLD〜 - JoJo Sonochino Kioku～end of THE WORLD～",
+      "artist": "JO☆STARS ～TOMMY,Coda,JIN～",
+      "has_synced": true,
+      "path": "select/15_ジョジョ_その血の記憶〜END_OF_THE_WORLD〜_-_JoJo_Sonochino_Kioku~end_of_THE_WORLD~_JO☆STARS_~TOMMY,Coda,JIN~.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ジョジョ その血の記憶〜end of THE WORLD〜",
+      "artist": "JO☆STARS ~TOMMY,Coda,JIN~",
+      "has_synced": true,
+      "path": "select/16_ジョジョ_その血の記憶〜end_of_THE_WORLD〜_JO☆STARS_~TOMMY,Coda,JIN~.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "ジョジョ その血の記憶〜end of THE WORLD〜 (ORIGINAL KARAOKE)",
+      "artist": "JO☆STARS ~TOMMY,Coda,JIN~",
+      "has_synced": false,
+      "path": "select/17_ジョジョ_その血の記憶〜end_of_THE_WORLD〜_(ORIGINAL_KARAOKE)_JO☆STARS_~TOMMY,Coda,JIN~.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "ジョジョ その血の記憶～END OF THE WORLD～(ORIGINAL KARAOKE)",
+      "artist": "JO☆STARS ～TOMMY，Coda，JIN～",
+      "has_synced": true,
+      "path": "select/18_ジョジョ_その血の記憶~END_OF_THE_WORLD~(ORIGINAL_KARAOKE)_JO☆STARS_~TOMMY,Coda,JIN~.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "ジョジョ その血の記憶 ～end of THE WORLD～",
+      "artist": "JO☆STARS ～TOMMY, Coda, JIN～",
+      "has_synced": true,
+      "path": "select/19_ジョジョ_その血の記憶_~end_of_THE_WORLD~_JO☆STARS_~TOMMY,_Coda,_JIN~.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "ジョジョ その血の記憶～end of THE WORLD～",
+      "artist": "JO☆STARS ~TOMMY,Coda,JIN~",
+      "has_synced": true,
+      "path": "select/20_ジョジョ_その血の記憶~end_of_THE_WORLD~_JO☆STARS_~TOMMY,Coda,JIN~.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ジョジョ その血の記憶～end of THE WORLD～",
+      "artist": "JO☆STARS～TOMMY, Coda, JIN～",
+      "has_synced": false,
+      "path": "select/pl_01_ジョジョ_その血の記憶~end_of_THE_WORLD~_JO☆STARS~TOMMY,_Coda,_JIN~.txt"
+    }
+  ]
+}
