@@ -1,4 +1,4 @@
-# JO☆STARS ～TOMMY,Coda,JIN～ – ジョジョ その血の記憶〜END OF THE WORLD〜
+# JO☆STARS ～TOMMY,Coda,JIN～ – ジョジョ その血の記憶～END OF THE WORLD～
 
 > **歌詞登録ステータス：同期歌詞あり**
 
